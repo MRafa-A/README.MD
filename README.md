@@ -1,5 +1,5 @@
 # README.MD
-Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://tenor.com/view/oguri-cap-uma-musume-umamusume-pretty-derby-oguri-ball-ball-gif-4073861038092857277)) My name is Rafa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://tenor.com/view/oguri-cap-uma-musume-umamusume-pretty-derby-oguri-ball-ball-gif-4073861038092857277)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZmcmZld3ZndzdzN2U1ZmUxM3JyOTQweWw5d3dydWE4Y2dsYTBraSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2khT3vKurl8VPvhsLo/giphy.gif)) My name is Rafa
 =============================================================================================================================
 
 Data Science Enthusiast
